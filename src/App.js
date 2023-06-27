@@ -8,6 +8,7 @@ function App() {
 
     <>
     <Navbar   title = "textutils"  mainpage= "HOME" aboutapp ="ABOUT US" >   </Navbar>
+    
 
     
     
